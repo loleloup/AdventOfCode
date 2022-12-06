@@ -141,9 +141,14 @@
   <ItemGroup>
     <ClCompile Include="AdventOfCode.cpp" />
     <ClCompile Include="Day1.cpp" />
+    <ClCompile Include="Podium.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Day_1_1_Input.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Day1.h" />
+    <ClInclude Include="Podium.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

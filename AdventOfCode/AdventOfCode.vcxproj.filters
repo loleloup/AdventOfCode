@@ -24,10 +24,21 @@
     <ClCompile Include="Day1.cpp">
       <Filter>Fichiers sources\Day1</Filter>
     </ClCompile>
+    <ClCompile Include="Podium.cpp">
+      <Filter>Fichiers sources\Day1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Day_1_1_Input.txt">
       <Filter>Fichiers de ressources</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Day1.h">
+      <Filter>Fichiers sources\Day1</Filter>
+    </ClInclude>
+    <ClInclude Include="Podium.h">
+      <Filter>Fichiers sources\Day1</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
